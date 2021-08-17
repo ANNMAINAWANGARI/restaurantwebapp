@@ -8,7 +8,7 @@ Technologies to be used
 ***
 ***
 
-*React.js*
-*Styled components*
-*Firebase*
-*Mpesa Daraja API*
+*React.js
+*Styled components
+*Firebase
+*Mpesa Daraja API
