@@ -8,8 +8,8 @@ Technologies to be used
 ***
 ***
 
- Markup : * React.js
-          * Styled components
-          * Firebase
-          * Mpesa Daraja API
+  * React.js
+  * Styled components
+  * Firebase
+  * Mpesa Daraja API
 
