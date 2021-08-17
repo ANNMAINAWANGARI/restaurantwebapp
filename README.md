@@ -2,11 +2,9 @@
 
 This application lets you order your meal online.
 ***
-***
-***
+
 Technologies to be used
-***
-***
+
 
   * React.js
   * Styled components
