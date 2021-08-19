@@ -10,4 +10,5 @@ Technologies to be used
   * Styled components
   * Firebase
   * Mpesa Daraja API
+  * Github Actions CI for automated deployments
 
